@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+
+h1{
+    text-align: center;
+    color: indianred;
+    padding: 30px;
+}
+
+.login{
+    width: 300px;
+    margin: 10px auto;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+p{
+    width: 100%;
+    margin: 10px;
+    color: lightcoral;
+    font-size: 15px;
+}
+
+.usuario{
+    width: 100%;
+    border-radius: 6px;
+    height: 20px;
+    border-color: lightpink;
+    border: none;
+    padding: 0;
+}
+
+.botao{
+    width: 60%;
+    height: 25px;
+    border: none;
+    border-radius: 15px;
+    color: lightpink;
+    padding: 0;
+    margin-top: 10px;
+    justify-content: center;
+    }
+
+.central{
+    text-align: center;
+    margin: 0;
+}
+
+a{
+    float: right;
+    color: hotpink;
+    font-size: 15px;
+}
+
+.lembrar{
+    font-size: 15px;
+    color: lightpink;
+    
+}
